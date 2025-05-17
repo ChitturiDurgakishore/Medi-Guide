@@ -2,10 +2,10 @@
 session_start();
 
 // Database connection
-$servername = "sql113.infinityfree.com";
-$username = "if0_37435582";
-$password = "RdXGj90Owk";
-$dbname = "if0_37435582_mediguide";
+$servername = "";
+$username = "i";
+$password = "";
+$dbname = "e";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
