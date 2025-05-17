@@ -5,10 +5,10 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 // Database connection details (Updated to match your provided credentials)
-$servername = "sql113.infinityfree.com";
-$username = "if0_37435582";
-$password = "RdXGj90Owk";
-$dbname = "if0_37435582_mediguide";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 $mycon = mysqli_connect($servername, $username, $password, $dbname);
 
