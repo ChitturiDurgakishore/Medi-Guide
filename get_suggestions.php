@@ -1,8 +1,8 @@
 <?php
-$servername = "sql113.infinityfree.com";
-$username = "if0_37435582";
-$password = "RdXGj90Owk";
-$dbname = "if0_37435582_mediguide";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Connect to database
 $mycon = new mysqli($servername, $username, $password, $dbname);
